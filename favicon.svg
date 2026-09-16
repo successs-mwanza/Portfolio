@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MS initials favicon">
+  <rect width="64" height="64" rx="12" fill="#17212b"/>
+  <rect x="6" y="6" width="52" height="52" rx="10" fill="none" stroke="#f1c84b" stroke-width="1.5" opacity="0.8"/>
+  <text x="32" y="38" text-anchor="middle" font-size="22" font-family="'DM Mono', 'SFMono-Regular', monospace" font-weight="700" fill="#f1c84b" letter-spacing="1">MS</text>
+</svg>
